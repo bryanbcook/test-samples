@@ -1,0 +1,13 @@
+<testsuites>
+  <testsuite name="JUnitSample.dll" tests="1" skipped="0" failures="0" errors="0" time="0.002408" timestamp="2025-12-09T20:47:40" hostname="WINAPYYQAIJCF1B" id="0" package="JUnitSample.dll">
+    <properties />
+    <testcase classname="JUnitSample.SuiteName" name="Test" time="0.0024080" />
+    <system-out>
+Test Framework Informational Messages:
+NUnit Adapter 4.2.0.0: Test execution started
+Running all tests in C:\dev\code\_Experiments\NUnitSample\JUnit\JUnitSample\bin\Debug\net9.0\JUnitSample.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.2.0.0: Test execution complete
+</system-out>
+  </testsuite>
+</testsuites>

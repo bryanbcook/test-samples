@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<assemblies timestamp="11/28/2025 19:03:05">
+  <assembly name="XUnitExample.dll" environment="64-bit .NET  [collection-per-class, parallel (8 threads)]" test-framework="xUnit.net 2.9.2.0" run-date="2025-11-28" run-time="19:03:05" total="1" passed="1" failed="0" skipped="0" time="0.059" errors="0">
+    <errors />
+    <collection total="1" passed="1" failed="0" skipped="0" name="Test collection for XUnitExample.UnitTest1" time="0.004">
+      <test name="XUnitExample.UnitTest1.Test1" type="XUnitExample.UnitTest1" method="Test1" time="0.0036125" result="Pass" />
+    </collection>
+  </assembly>
+</assemblies>

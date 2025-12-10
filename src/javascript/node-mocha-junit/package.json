@@ -1,0 +1,15 @@
+{
+  "name": "junit-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter mocha-junit-reporter --reporter-options includePending=true"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "mocha": "^11.7.5",
+    "mocha-junit-reporter": "^2.2.1"
+  }
+}

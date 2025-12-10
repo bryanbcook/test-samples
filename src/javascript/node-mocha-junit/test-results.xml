@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.003" tests="2" failures="0" skipped="1">
+  <testsuite name="Root Suite" timestamp="2025-12-10T15:14:09" tests="0" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="sample test suite" timestamp="2025-12-10T15:14:09" tests="2" file="C:\dev\code\_Experiments\test.samples\src\javascript\node-mocha-junit\test\sample.test.js" time="0.001" failures="0" skipped="1">
+    <testcase name="sample test suite test1" time="0.000" classname="test1">
+    </testcase>
+    <testcase name="sample test suite test2" time="0.000" classname="test2">
+      <skipped/>
+    </testcase>
+  </testsuite>
+</testsuites>

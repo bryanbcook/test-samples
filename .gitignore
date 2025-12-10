@@ -1,3 +1,132 @@
+# =========================================
+# .NET
+# =========================================
 obj
 bin
 .vs
+
+# =========================================
+# Java
+# =========================================
+*.class
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+
+# BlueJ
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files
+*.zip
+*.tar.gz
+*.rar
+
+# =========================================
+# Maven
+# =========================================
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# include surefire-reports for junit test result examples
+!target/surefire-reports/
+!target/surefire-reports/*.xml
+
+# =========================================
+# Gradle
+# =========================================
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# Local Gradle configuration
+gradle-app.setting
+
+# =========================================
+# IntelliJ IDEA
+# =========================================
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# =========================================
+# Eclipse
+# =========================================
+.project
+.classpath
+.c9/
+.settings/
+.loadpath
+.factorypath
+bin/
+tmp/
+.metadata/
+recovery/
+
+# Launch configurations
+*.launch
+
+# =========================================
+# VS Code
+# =========================================
+.vscode/
+.classpath
+.project
+.settings/
+
+# =========================================
+# Java Web / Application Servers
+# =========================================
+# Tomcat
+logs/
+temp/
+work/
+
+# Jetty
+jetty/work/
+jetty/logs/
+
+# =========================================
+# Operating System files
+# =========================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# =========================================
+# Other Common Tooling
+# =========================================
+# Java annotation processors
+generated/
+
+# Lombok config
+lombok.config
+
+# Local environment overrides
+.env
+.env.*
+
+# =========================================
+# End
+# =========================================

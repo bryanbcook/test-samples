@@ -1,0 +1,16 @@
+<assemblies timestamp="12/10/2025 14:30:10">
+  <assembly name="C:\dev\code\_Experiments\NUnitSample\src\dotnet\XUnit2\XUnitExample2\bin\Debug\net8.0\XUnitExample2.dll" run-date="2025-12-10" run-time="14:30:10" total="3" passed="3" failed="0" skipped="0" time="4.250" errors="0">
+    <errors />
+    <collection total="3" passed="3" failed="0" skipped="0" name="Test collection for XUnitExample2.TestsWithDurations" time="1.030">
+      <test name="XUnitExample2.TestsWithDurations.TestCase167_Duration1s" type="XUnitExample2.TestsWithDurations" method="TestCase167_Duration1s" time="1.0154861" result="Pass">
+        <traits />
+      </test>
+      <test name="XUnitExample2.TestsWithDurations.Duration10Ms" type="XUnitExample2.TestsWithDurations" method="Duration10Ms" time="0.0137091" result="Pass">
+        <traits />
+      </test>
+      <test name="XUnitExample2.TestsWithDurations.NoDuration" type="XUnitExample2.TestsWithDurations" method="NoDuration" time="0.0008250" result="Pass">
+        <traits />
+      </test>
+    </collection>
+  </assembly>
+</assemblies>
